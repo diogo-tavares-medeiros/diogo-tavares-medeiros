@@ -1,7 +1,7 @@
 ##Olá, Eu sou o Diogo Medeiros
 
 - 🔭 Atualmente estudo Análise e Desenvolvimento de Sistemas, em paralelo estudo HTML, CSS e JavaScript.
-- 🌱 Também sou graduado em Engenharia de Produção.
+- 🌱 Graduado em Engenharia de Produção.
 - 🤔 Buscando minha primeira oportunidade na área de programação.
 
 <div align="center">
