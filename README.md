@@ -1,8 +1,7 @@
 ##Olá, Eu sou o Diogo Medeiros
 
-- 🔭 Estou me graduando em Análise e Desenvolvimento de Sistemas, em paralelo estudo HTML, CSS e JavaScript.
+- 🔭 Estou me graduando em Análise e Desenvolvimento de Sistemas, estagiando com Analista e Desenvolvedor na em AdvPl(Totvs).
 - 🌱 Graduado em Engenharia de Produção.
-- 🤔 Buscando minha primeira oportunidade na área de programação.
 
 <div align="center">
   <a href="https://beacons.ai/diogo-tavares-medeiros">
