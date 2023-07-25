@@ -1,6 +1,6 @@
 ##Olá, Eu sou o Diogo Medeiros
 
-- 🔭 Estou me graduando em Análise e Desenvolvimento de Sistemas, estagiando com Analista e Desenvolvedor na em AdvPl(Totvs).
+- 🔭 Estou me graduando em Análise e Desenvolvimento de Sistemas, estagiando como Analista e Desenvolvedor na em AdvPl(Totvs).
 - 🌱 Graduado em Engenharia de Produção.
 
 <div align="center">
